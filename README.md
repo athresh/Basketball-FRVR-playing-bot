@@ -2,4 +2,4 @@
 Solution to the facebook game Basketball FRVR
 
 Generates mouse clicks based on position of the basket detected from screenshots.
-Logic to lead throws is crude and has scope for improvement. Maybe someday.
+The lead parameter and aim coordinates are fairly well tuned now, but there's scope for improvement.
